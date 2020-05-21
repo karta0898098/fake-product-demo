@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e3c0fb3-39c8-4cdf-b41d-972ae60ab9ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="fake_product@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="fake_product@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="fake_product@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="fake_product: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.13.6/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="l4lzz5ec" />
+  </component>
+  <component name="ProjectId" id="1bhNGjQQDmsrTax0CrLOf10dXFd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Docker.Docker RUN">
+    <configuration name="Docker RUN" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="commandLineOptions" value="--build" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.fake-product-services: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="fake-product-services" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Docker RUN" />
+      <item itemvalue="Docker.docker-compose.yml.fake-product-services: Compose Deployment" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.fake-product-services: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="42" key="#GOROOT" timestamp="1589080299138">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="240" y="42" key="#GOROOT/0.23.1280.707@0.23.1280.707" timestamp="1589080299138" />
+    <state x="70" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589101759712">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state x="70" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.707@0.23.1280.707" timestamp="1589081207774" />
+    <state x="70" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.709@0.23.1280.709" timestamp="1589081922165" />
+    <state x="70" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.712@0.23.1280.712" timestamp="1589101759712" />
+    <state x="464" y="269" key="DockerComposeFileDialog" timestamp="1589081890195">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="464" y="269" key="DockerComposeFileDialog/0.23.1280.709@0.23.1280.709" timestamp="1589081890195" />
+    <state width="846" height="133" key="GridCell.Tab.0.bottom" timestamp="1589610813861">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state width="846" height="163" key="GridCell.Tab.0.bottom/0.23.1280.707@0.23.1280.707" timestamp="1589081096986" />
+    <state width="846" height="163" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1589103542906" />
+    <state width="846" height="131" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1589104648361" />
+    <state width="846" height="133" key="GridCell.Tab.0.bottom/0.23.1280.714@0.23.1280.714" timestamp="1589610813861" />
+    <state width="846" height="133" key="GridCell.Tab.0.center" timestamp="1589610813860">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state width="846" height="163" key="GridCell.Tab.0.center/0.23.1280.707@0.23.1280.707" timestamp="1589081096984" />
+    <state width="846" height="163" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1589103542906" />
+    <state width="846" height="131" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1589104648360" />
+    <state width="846" height="133" key="GridCell.Tab.0.center/0.23.1280.714@0.23.1280.714" timestamp="1589610813860" />
+    <state width="846" height="133" key="GridCell.Tab.0.left" timestamp="1589610813858">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state width="846" height="163" key="GridCell.Tab.0.left/0.23.1280.707@0.23.1280.707" timestamp="1589081096982" />
+    <state width="846" height="163" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1589103542905" />
+    <state width="846" height="131" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1589104648360" />
+    <state width="846" height="133" key="GridCell.Tab.0.left/0.23.1280.714@0.23.1280.714" timestamp="1589610813858" />
+    <state width="846" height="133" key="GridCell.Tab.0.right" timestamp="1589610813861">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state width="846" height="163" key="GridCell.Tab.0.right/0.23.1280.707@0.23.1280.707" timestamp="1589081096985" />
+    <state width="846" height="163" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1589103542906" />
+    <state width="846" height="131" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1589104648361" />
+    <state width="846" height="133" key="GridCell.Tab.0.right/0.23.1280.714@0.23.1280.714" timestamp="1589610813861" />
+    <state x="542" y="264" width="348" height="252" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1589098591102">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="542" y="263" width="348" height="252" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.23.1280.707@0.23.1280.707" timestamp="1589081108202" />
+    <state x="542" y="264" width="348" height="252" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.23.1280.709@0.23.1280.709" timestamp="1589098591102" />
+    <state x="518" y="239" width="343" height="274" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog" timestamp="1589100481654">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="518" y="239" width="343" height="274" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/0.23.1280.709@0.23.1280.709" timestamp="1589100481654" />
+    <state x="305" y="56" width="670" height="676" key="search.everywhere.popup" timestamp="1589083934555">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="305" y="56" width="670" height="676" key="search.everywhere.popup/0.23.1280.709@0.23.1280.709" timestamp="1589083934555" />
+  </component>
+</project>

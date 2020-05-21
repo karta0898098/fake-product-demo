@@ -1,0 +1,1 @@
+CREATE SCHEMA `fake_product` DEFAULT CHARACTER SET utf8mb4 ;

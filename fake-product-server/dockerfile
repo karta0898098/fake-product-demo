@@ -1,0 +1,28 @@
+FROM golang:1.14.2-alpine3.11 AS builder-env
+
+WORKDIR /fake-product
+
+COPY go.mod /
+COPY go.sum /
+
+RUN go mod download
+
+COPY . .
+
+RUN CGO_ENABLED=0 GOOS=linux go build -tags=jsoniter .
+
+FROM alpine:latest  
+RUN apk --no-cache add ca-certificates
+RUN apk add --no-cache bash
+RUN apk add tzdata
+
+COPY --from=builder-env /fake-product /fake-product
+
+RUN cd /fake-product && ls
+
+WORKDIR /fake-product
+
+EXPOSE 8080
+
+# ENTRYPOINT [ "./fake-product" ]
+CMD ["./wait-for-it.sh","database:3306","-t","60","--","./fake-product"]

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{20B3DDD7-EC0A-93F0-3D79-8A5C4646A012}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Networking/NetworkManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Networking/Packet.cs" Line="86" Column="22" />
+      <File FileName="Assets/Scripts/Ui/Product.cs" />
+      <File FileName="Assets/Scripts/Ui/ProductPage.cs" Line="100" Column="24" />
+      <File FileName="Assets/Scripts/Networking/NetworkManager.cs" Line="41" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FakeProductClient" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Networking" expanded="True">
+                  <Node name="NetworkManager.cs" selected="True" />
+                </Node>
+                <Node name="Ui" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cd43cb9a-0ac3-48c9-8c31-0937cdc2f4eb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
