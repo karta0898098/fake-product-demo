@@ -37,13 +37,13 @@ func Login(c *gin.Context) {
 	}
 
 	var userInfo models.UserInfo
-	database.Context.Model(models.UserInfo{}).Find(&userInfo)
+	database.Context.Model(models.UserInfo{}).Where("account = ?", user.ID).Find(&userInfo)
 
 	accessToken := middleware.GenToken(int(user.ID))
 
 	c.JSON(http.StatusOK, gin.H{
-		"status": "ok",
-		"accessToken":  accessToken,
+		"status":      "ok",
+		"accessToken": accessToken,
 		"userInfo": gin.H{
 			"name":  userInfo.Name,
 			"money": userInfo.Money,
